@@ -1,0 +1,45 @@
+h1 {
+  color: #7FDBFF;
+  border: 5px solid #7FDBFF;
+  padding: 20px;
+  background-color: #ffd6db;
+  height: 150px;
+  width: 400px;
+  margin-left: 20px;
+}
+
+p {
+  margin-top: 20px;
+}
+
+.dot {
+  border: 5px dotted #7FDBFF;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  border-top: 5px solid #7FDBFF;
+  border-bottom: 5px solid #7FDBFF;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  margin: 16px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.red {
+  background-color:red;
+}
+
+.circle {
+  border-radius: 100px;
+}

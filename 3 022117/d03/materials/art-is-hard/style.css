@@ -1,0 +1,58 @@
+/*Page Title: h1
+Page Sub: h3
+Work Titles: h2
+Work Captions: p
+Bottom Caption: h4*/
+
+
+
+body {
+  padding-left: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, hr, p.subtitle {
+  color: b9b9b9;
+}
+
+h1 {
+  font-family: helvetica;
+  font-weight: bolder;
+  color: grey;
+  font-size: 35pt;
+  line-height: 10pt;
+}
+
+h3 {
+  font-family: helvetica;
+  font-weight: normal;
+  color: grey;
+  font-size: 9pt;
+}
+
+h2 {
+  font-family: helvetica;
+  font-weight: bolder;
+  color: grey;
+  font-size: 16pt;
+}
+
+p {
+  font-family: helvetica;
+  font-weight: normal;
+  color: black;
+  font-size: 9pt;
+}
+
+h4 {
+  font-family: helvetica;
+  font-weight: normal;
+  color: black;
+  font-size: 12pt;
+}
+
+img {
+  box-shadow: 5px 5px 5px 5px #888888;
+  border-radius: 10px 10px 10px 10px;
+
+}

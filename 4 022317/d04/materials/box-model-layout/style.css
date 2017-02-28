@@ -1,0 +1,48 @@
+div {
+  background-color: black;
+  border: 10px solid #dddddd;
+  width: 700px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+p {
+  font-family: times;
+  font-size: 9pt;
+
+}
+
+.black {
+  background-color:black;
+}
+
+.white {
+  color: white;
+}
+
+.orange {
+  background-color: #ff5e1e;
+}
+
+.blue {
+  color: #263bff;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.home {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.thin {
+  border-bottom: 8px;
+}

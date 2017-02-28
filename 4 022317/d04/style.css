@@ -1,0 +1,25 @@
+
+
+
+h1 {
+  font-family: helvetica;
+  font-size: 75pt;
+  font-color: #7eaefc;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 16pt;
+  font-weight: lighter;
+}
+
+li {
+  font-family: helvetica;
+  font-size: 16pt;
+  font-weight: lighter;
+}
+
+li#pac {
+  font-weight: italic;
+  font-color: orange;
+}

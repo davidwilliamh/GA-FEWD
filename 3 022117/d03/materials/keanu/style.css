@@ -1,0 +1,36 @@
+    body {
+      margin-left: 16px;
+      margin-right: 16px;
+      background: lightpink;
+    }
+    h1 {
+      font-family: helvetica;
+      font-weight: bold;
+      font-size: 42pt;
+      padding-left: 16px;
+      }
+    h2 {
+      font-family: helvetica;
+      font-weight: normal;
+      font-size: 10pt;
+      line-height: 8pt;
+      padding-left: 16px;
+      }
+    .yellow {
+      font-color: yellow;
+      }
+    h1 #yellow {
+      font-color: yellow;
+    }
+    ul {
+      list-style: none;
+    }
+    li {
+      font-family: helvetica;
+      font-weight: normal;
+      font-size: 10pt;
+    }
+    #keanu-and-sandra {
+      height: 277px;
+      width: 200px;
+    }
