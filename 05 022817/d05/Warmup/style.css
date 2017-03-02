@@ -1,0 +1,12 @@
+h1 {
+  font-family: 'Nunito', sans-serif;
+  color: rgb(255, 233, 226);
+  border: #e2faff solid 5px;
+  background-color: #e2faff;
+  padding: 25px 500px 25px 25px;
+  width: 505px;
+}
+
+#outline {
+  outline: 1px;
+}

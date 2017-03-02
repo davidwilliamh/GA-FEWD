@@ -1,0 +1,28 @@
+.red-box {
+  height: 130px;
+  width: 600px;
+  background-color: red;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+.blue-box {
+  height: 130px;
+  width: 600px;
+  background-color: yellow;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+.year {
+  font-style: italic;
+  color: green;
+}
+
+div.container {
+  width: 1200px;
+}

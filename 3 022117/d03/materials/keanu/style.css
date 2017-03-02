@@ -29,8 +29,14 @@
       font-family: helvetica;
       font-weight: normal;
       font-size: 10pt;
+      line-height: 18px;
     }
     #keanu-and-sandra {
       height: 277px;
       width: 200px;
+    }
+
+    .year {
+      color: green;
+      font-style: italic;
     }
