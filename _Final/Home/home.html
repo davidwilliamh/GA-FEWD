@@ -3,18 +3,30 @@
 <head>
   <title>David Hastings</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans+Mono" rel="stylesheet">
 </head>
-<body class=home>
+<body class="home">
   <div id="watermark">
     <h1>David Hastings</h1>
   </div>
 
-<div id="Sidenav" class="mysidenav">
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-</div>
-  <script src="../Gallery/my.js"></script>
+<!-- <div id="Sidenav" class="mysidenav">
+  <ul>
+    <a href="#">Work</a>
+    <a href="#">About</a>
+  </ul>
+</div> -->
+
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Work</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a href="#">Baby's First Drag</a>
+      <a href="#">General Assembly</a>
+      <a href="#">Ireland</a>
+    </div>
+<!--   <button class="dropbtn">About</button>
+ --></div>
+
+<script src="../gallery/my.js"></script>
 </body>
 </html>
